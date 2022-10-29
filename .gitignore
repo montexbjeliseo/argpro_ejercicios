@@ -1,3 +1,4 @@
 ### IGNORE ###
-!**/node_module
-!**/output
+aprendiendo_typescript/node_modules/
+aprendiendo_typescript/output/
+xlsx_planificar_estudio_v2.xlsx
