@@ -1,4 +1,6 @@
 ### IGNORE ###
-aprendiendo_typescript/node_modules/
 aprendiendo_typescript/output/
+aprendiendo_typescript/node_modules
+hola_mundo_angular/node_modules
+
 xlsx_planificar_estudio_v2.xlsx
